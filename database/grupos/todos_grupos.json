@@ -1,0 +1,31 @@
+[
+  {
+    "id": "bluxmd",
+    "gps": []
+  },
+  {
+    "id": "120363420931741224@g.us",
+    "limite": 1,
+    "validado": false
+  },
+  {
+    "id": "120363421350599185@g.us",
+    "limite": 0,
+    "validado": false
+  },
+  {
+    "id": "120363421207011607@g.us",
+    "limite": 0,
+    "validado": false
+  },
+  {
+    "id": "120363403642552552@g.us",
+    "limite": 4,
+    "validado": false
+  },
+  {
+    "id": "120363420730177772@g.us",
+    "limite": 3,
+    "validado": false
+  }
+]

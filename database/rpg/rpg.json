@@ -1,0 +1,28 @@
+[
+  {
+    "numero": "5511910924069@s.whatsapp.net",
+    "nome": "kauan",
+    "idade": 27,
+    "bluxcoins": 210,
+    "banco": "Wells Fargo",
+    "taxaBanco": 2,
+    "chavePix": "kauan@blux.com",
+    "email": "kauan@blux.com",
+    "registrado_em": "2025-09-13T19:43:56.300Z",
+    "cassinoRodadas": 4
+  },
+  {
+    "numero": "558189728863@s.whatsapp.net",
+    "nome": "blux",
+    "idade": 39,
+    "bluxcoins": 49,
+    "banco": "HSBC UK",
+    "taxaBanco": 11,
+    "chavePix": "blux@blux.com",
+    "email": "blux@blux.com",
+    "registrado_em": "2025-09-13T19:44:27.929Z",
+    "cassinoRodadas": 1,
+    "protecoes": [],
+    "ultimaMissao": "2025-09-20T14:08:14.249Z"
+  }
+]

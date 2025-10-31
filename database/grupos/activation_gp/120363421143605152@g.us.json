@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Teste",
+    "groupId": "120363421143605152@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": true,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": true,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "blux modz",
+    "legenda_imagem": "BLUX BOT",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": [
+        "meu pau",
+        "deus"
+      ],
+      "ativo": true,
+      "lista": [
+        "off"
+      ],
+      "desativadas": [
+        "arrombado",
+        "carai",
+        "buceta"
+      ]
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "BLUX BOT",
+        "legendasaiu": "blux de graça"
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "blux bot amar",
+        "legendasaiu": "deus abençoe sempre sua vida"
+      }
+    ],
+    "simi1": true,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": true,
+    "aluguel": false,
+    "Limit_tempo": "60",
+    "ausente": [
+      {
+        "id": "558189728863@s.whatsapp.net",
+        "hora": "2025-09-17T23:28:24.079Z",
+        "msg": "Não informado"
+      }
+    ],
+    "prefixs": [
+      ".",
+      "/"
+    ],
+    "antiporno": true
+  }
+]
